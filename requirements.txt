@@ -1,0 +1,6 @@
+smolagents[litellm]
+numpy
+wikipedia
+requests
+bs4
+smolagents[transformers]
